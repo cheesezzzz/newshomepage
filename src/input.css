@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply text-center text-sm text-off-white font-semibold bg-soft-red w-36 py-3 px-3
+}
